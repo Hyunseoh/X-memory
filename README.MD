@@ -22,7 +22,7 @@
 <br />
 
 ### 안드로이드 스튜디오 연계 작업 링크
-- https://github.com/NongDamGom1216/X-memory
+- https://github.com/Hyunseoh/X-memory-1
 
 <br />
 
